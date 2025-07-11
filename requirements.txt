@@ -1,0 +1,6 @@
+speechrecognition
+openai
+python-dotenv
+pyttsx3
+pyaudio
+winshell
